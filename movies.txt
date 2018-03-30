@@ -1,0 +1,79 @@
+Movie: The Other Side of Hope
+Director: Aki Kaurismaki
+Cast: Sherwan Haji, Sakari Kousman, Janne Hyytiainen
+Type: Comedy, Drama
+Date: December 1 3 5 7 9 11
+Time: 14:15 19:00, 23:30
+Metascore: 82
+
+Movie: Le Havre
+Director: Aki Kaurismaki
+Cast:  Andre Wilms, Blondin Miguel, Jean-Pierre Darroussin
+Type: Drama
+Date: December 2 4 6 8 10 12 14 16 18 20
+Time: 13:00 16:00 19:00 23:00
+Metascore: 82
+
+Movie: The Square
+Director: Ruben Ostlund
+Cast: Claes Bang, Elisabeth Moss, Dominic West
+Type: Drama, Thriller
+Date: November 11 12 13 20 21 22 23 24 25 26 27 28 29
+Time: 11:30 16:15 21:00
+Metascore: 72
+
+Movie: Murder on the Orient Express
+Director: Kenneth Branagh
+Cast: Kenneth Brabagh, Penelope Cruz, Williem Dafoe, Johnny Depp, Michelle Pfeiffer 
+Type: Action, Comedy, Thriller
+Date: November 11 12 13 14 22 24 26 28 30
+Time: 11:30 14:00 16:30 19:00 21:30
+Metascore: 53
+
+Movie: Volver
+Director: Pedro Almodovar
+Cast: Penelope Cruz, Carmen Mauda, Lola Duenas
+Type: Comedy
+Date: December 3 6 9 12 15 18 21 24 27
+Time: 15:45 18:45 21:45
+Metascore: 84
+
+Movie: Sin City A Dame to Kill For
+Director: Frank Miller
+Cast: Eva Green, Jessica Alba, Josh Brolin, Mickey Rourke
+Type: Fiction
+Date: November 11 12 13 14 15 21 22 23 24 25 26 27 28 29
+Time: 19:30 21:30 23:30
+Metascore: 46
+
+Movie: The Dreamers
+Director: Bernardo Bertolucci
+Cast: Eva Green, Micheal Pitt, Louis Garrel
+Type: Drama
+Date: December 1 2 3 4 5 6 7 8 9
+Time: 13:15 15:15 20:15 23:15
+Metascore: 62
+
+Movie: Julieta
+Director: Pedro Almodovar
+Cast: Emma Suarez
+Type: Drama, Comedy
+Date: November 11 12 13 14 15 24 26 28 30
+Time: 20:15 22:15 23:15
+Metascore: 73
+
+Movie: Sin City
+Director: Frank Miller
+Cast: Clive Owen, Bruce Willis, Mickey Rourke
+Type: Fiction
+Date: November 11 12 14 16 18 20 22 24 26 28
+Time: 17:30 19:30 21:30 23:30
+Metascore: 74
+
+Movie: You Were Never Really Here
+Director: Lynne Ramsay
+Cast: Joaquin Phoenix, Ekaterina Samsonov
+Type: Drama, Thriller
+Date: December 1 2 3 4 5 6 7 8 9 10
+Time: 20:00 22:00 23:30
+Metascore: 88
